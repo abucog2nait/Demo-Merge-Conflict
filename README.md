@@ -1,3 +1,3 @@
 # Demo-Merge-Conflict
 
-by John Bucog
+a simple demo, by John Bucog, for DMIT2018
